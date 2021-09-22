@@ -1,0 +1,10 @@
+.header__tap-links {
+  padding-top: 18px;
+  display: flex;
+}
+
+@media screen and (max-width: 340px) {
+  .header__tap-links {
+    padding-top: 14px;
+  }
+}

@@ -1,0 +1,13 @@
+.footer__item {
+
+}
+
+.footer__item:nth-child(1) {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 340px) {
+    .footer__item  {
+      margin-top: 32px; 
+    }
+  }
