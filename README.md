@@ -32,6 +32,6 @@
 
 **Ссылка на GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://github.com/krekser37/russian-travel.git)
+* [Ссылка на GitHub Pages](https://github.com/krekser37/my-russian-travel/index.html )
 
-Удачи!
+Спасибо!
