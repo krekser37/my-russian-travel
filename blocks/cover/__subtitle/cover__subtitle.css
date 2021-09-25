@@ -16,15 +16,24 @@
     }
   }
   
-  @media screen and (max-width: 788px) {
+  @media screen and (max-width: 800px) {
     .cover__subtitle {
-      margin: 299px auto 0;
+      margin: 299px 204px 0;
     }
   }
 
-  @media screen and (max-width: 555px) {
+  @media screen and (max-width: 750px) and (min-width: 400px) {
     .cover__subtitle {
-      margin: 119px auto 0;
+      margin: 30% auto 0;
+      max-width: 80%;
+      font-size: 3vw;
+      line-height: 3vw;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .cover__subtitle {
+      margin: 119px 16px 0;
       font-size: 14px;
       line-height: 16px;
     }

@@ -1,4 +1,5 @@
 .footer__links {
     margin: 0;
     padding: 0;
+    min-width: 440px;
 }

@@ -3,6 +3,7 @@
   font-size: 18px;
   line-height: 29px;
   font-weight: normal;
+  max-width: 456px;
 }
 
 .place__paragraph:nth-child(2) {

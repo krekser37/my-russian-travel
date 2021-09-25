@@ -7,6 +7,10 @@
   font-weight: normal;
 }
 
+.header__tap-link:hover {
+  opacity: 0.8;
+}
+
 @media screen and (max-width: 340px) {
   .header__tap-link {
     font-size: 18px;
