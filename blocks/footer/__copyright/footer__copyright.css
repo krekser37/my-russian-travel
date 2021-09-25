@@ -5,14 +5,14 @@
   margin: 0;
 }
 
-@media screen and (max-width: 767px) and (min-width: 700px) {
+@media screen and (max-width: 767px) and (min-width: 660px) {
   .footer__copyright {
     font-size: 2vw;
     line-height: 2vw;
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 660px) {
     .footer__copyright  {
       line-height: 14px;
       margin-top: 48px;

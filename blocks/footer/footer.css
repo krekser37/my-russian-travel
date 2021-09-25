@@ -5,6 +5,7 @@
   flex-wrap: wrap;
   min-width: 200px;
   max-width: 1184px;
+  max-width: 100%;
 }
 
 @media screen and (max-width: 1300px) {
@@ -24,3 +25,9 @@
     margin: 64px 16px 27px;
   }
 }
+
+@media screen and (max-width: 660px) {
+  .footer {
+    flex-direction: column;
+  }
+} 

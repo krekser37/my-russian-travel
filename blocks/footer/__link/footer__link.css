@@ -11,24 +11,16 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 767px) and (min-width: 700px) {
+@media screen and (max-width: 767px) and (min-width: 660px) {
   .footer__link {
     font-size: 2vw;
     line-height: 2vw;
   }
 }
 
-@media screen and (max-width: 700px) /* and (min-width: 340px) */ {
+@media screen and (max-width: 660px) {
   .footer__link {
     font-size: 24px;
     line-height: 24px;
   }
 }
-/* 
-@media screen and (max-width: 340px) {
-  .footer__link  {
-    font-size: 24px;
-    line-height: 24px;
-    padding-bottom: 32px;
-  }
-} */
