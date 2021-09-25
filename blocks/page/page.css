@@ -4,7 +4,8 @@
   margin: 0 auto;
   font-family: 'Inter', sans-serif;
   max-width: 1440px;
-  /* min-width: 320px; */
+  box-sizing: border-box;
+  overflow-x: hidden;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -12,3 +13,7 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+
+
+/* Я не знаю как убрать горизонтальный скрол, мы этого не проходили. Если вы мне подскажите,
+ я буду очень благодарна. Спрашивала у наставника, к сожалению, ответа пока не получила. */
