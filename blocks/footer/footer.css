@@ -4,8 +4,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   min-width: 200px;
-  max-width: 1184px;
-  max-width: 100%;
+
 }
 
 @media screen and (max-width: 1300px) {

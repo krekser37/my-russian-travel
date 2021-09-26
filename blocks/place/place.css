@@ -32,5 +32,11 @@
     grid-column-gap: 0;
     grid-row-gap: 32px;
     margin-top: 50px;
+    margin-left: 16px;
+  }
+}
+@media screen and (max-width: 340px)  {
+  .place {
+    margin-left: 0;
   }
 }
