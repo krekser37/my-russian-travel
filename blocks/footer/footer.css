@@ -4,12 +4,13 @@
   justify-content: space-between;
   flex-wrap: wrap;
   min-width: 200px;
-
+  max-width: 1184px;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1250px) {
   .footer {
-    margin: 92px 48px 24px;
+    margin-left: 48px;
+    margin-right: 48px;
   }
 }
 
